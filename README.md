@@ -19,11 +19,5 @@ Aplicar herramientas de inteligencia artificial para generar recomendaciones.
 4. Desarrollo del código
 5. Subida de archivos
 
-## Funcionamiento
-El sistema recomienda productos según preferencias del usuario.
-
-## Evidencia
-(Aquí debes agregar capturas)
-
 ## Conclusión
 Se logró aplicar IA básica en un proyecto simple.
